@@ -1,0 +1,1 @@
+# SaTNC-A-Transformer-baed-neural-network-for-creep-rupture-life-prediction
