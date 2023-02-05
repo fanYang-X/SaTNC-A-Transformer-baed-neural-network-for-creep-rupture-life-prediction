@@ -1,4 +1,4 @@
-# SaTNC-A-Transformer-baed-neural-network-for-creep-rupture-life-prediction  
+# SaTNC: A Transformer-baed neural network for creep rupture life prediction  
 
 By [Fan Yang](https://github.com/fanYang-X), [Wenyue Zhao](https://shi.buaa.edu.cn/09652/zh_CN/index.htm).
 
