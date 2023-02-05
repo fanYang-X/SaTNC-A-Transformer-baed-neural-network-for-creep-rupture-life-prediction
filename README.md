@@ -10,7 +10,7 @@ With the development of material informatics, it becomes more important to intro
 ***05/2/2023***
 Initial commits:
 
-1. Creep data, including creep datasets (.csv).
+1. Creep data, including creep datasets (.csv).  
    Note, except alloying elements features (wt.%), the features with "_L12" and "_A1" postfix are contents (at.) of alloying elements in γ'/γ, which calculated by ThermoCalc.
 2. SaTNC model code
 3. ML model, including SVR, RF, LightGBM, DCSA (refer to https://github.com/wujunming1/mla-shu)
