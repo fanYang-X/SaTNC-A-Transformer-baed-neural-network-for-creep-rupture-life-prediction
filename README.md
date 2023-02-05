@@ -19,7 +19,7 @@ Initial commits:
 
 The versions of the pyhton library used are as follows:  
 pandas -- 1.3.1  
-numpy -- 1.20.3
-scikit-learn -- 1.1.2
-lightgbm -- 3.2.1
+numpy -- 1.20.3  
+scikit-learn -- 1.1.2  
+lightgbm -- 3.2.1  
 torch -- 1.9.0
